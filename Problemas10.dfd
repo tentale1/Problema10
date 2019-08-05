@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+65
+'Por favor ingrese el radio de la base del tronco del cono en cm'
+5
+1
+2
+r1
+4
+1
+63
+'Por favor ingrese el radio superior del tronco del cono en cm'
+5
+1
+2
+r2
+4
+1
+53
+'Por favor ingrese la altura del cono completo en cm'
+5
+1
+2
+h1
+4
+1
+53
+'Por favor ingrese la altura del cono superior en cm'
+5
+1
+2
+h2
+6
+2
+1
+h
+5
+h1-h2
+3
+vol
+32
+((h*3.1415)/3)*(r1^2+r2^2+r1*r2)
+4
+1
+48
+'El volumen del tronco del cono es ',vol,' cm^3'
+1
